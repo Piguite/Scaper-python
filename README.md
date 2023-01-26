@@ -1,5 +1,3 @@
-# Scraper-python
-
 # ABOUT THE CODE:
 
 This is an own python project which use the python library SCRAPY to scrap the website ldlc.
