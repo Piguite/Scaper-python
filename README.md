@@ -23,6 +23,7 @@ step 2:
 
 go to the project folder in your terminal and execute this command (The command is the same on every operating system.):
 
+
 scrapy crawl routeur -o  (your_csv_file_name).csv
 
 
