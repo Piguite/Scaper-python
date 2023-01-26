@@ -1,4 +1,4 @@
-# Scaper-python
+# Scraper-python
 
 ABOUT THE CODE:
 
