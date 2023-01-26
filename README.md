@@ -26,3 +26,5 @@ scrapy crawl routeur -o  (your_csv_file_name).csv
 
 
 That's it, enjoy playing with this and feel free to modify it to scrap what ever you want, you can also sort the information you get to have such a beautiful csv file.
+
+Here is the SCRAPY documentation if you want to modify the code https://docs.scrapy.org/en/latest/
