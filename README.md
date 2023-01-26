@@ -9,6 +9,7 @@ The goal of the project was to collect informations about 4g routers in the ldlc
 - the picture 
 - the description
 - the rating 
+
 The informations collected are stored in a csv file. The code use the source code of the website to know what informations they need to take, (you can access it by pressing F12 on a website)
 look at the main.py and the router.py to understand
 
