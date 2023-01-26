@@ -23,6 +23,6 @@ step 2:
 
 go to the project folder in your terminal and execute this command:
 
-scrapy crawl routeur -o  (your_csv_file_name).csv       (The command is the same on every operating system.)
+scrapy crawl routeur -o  (your_csv_file_name).csv                 (The command is the same on every operating system.)
 
 That's it, enjoy playing with this and feel free to modify it to scrap what ever you want, you can also sort the information you get to have such a beautiful csv file.
